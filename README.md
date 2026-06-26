@@ -146,6 +146,9 @@ project_kel/
 ├── Project_ML_Grup E.ipynb                                             # Jupyter Notebook / Script Python analisis & pemodelan
 ├── LAPORAN PROJECT IMPLEMENTASI METODE ENSEMBLE LEARNING ... .pdf     # Laporan lengkap implementasi proyek (PDF)
 └── README.md                                                           # File dokumentasi ini (Markdown)
+└── compile_notebook.pdf
+└── 
+└──
 ```
 
 ---
