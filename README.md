@@ -147,8 +147,7 @@ project_kel/
 ├── LAPORAN PROJECT IMPLEMENTASI METODE ENSEMBLE LEARNING ... .pdf     # Laporan lengkap implementasi proyek (PDF)
 └── README.md                                                           # File dokumentasi ini (Markdown)
 └── compile_notebook.pdf
-└── 
-└──
+└── PPT Project Machine Learning.pdf
 ```
 
 ---
